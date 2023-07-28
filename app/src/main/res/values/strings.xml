@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="toggle_password_visibility">Show Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">Login</string>
+</resources>
